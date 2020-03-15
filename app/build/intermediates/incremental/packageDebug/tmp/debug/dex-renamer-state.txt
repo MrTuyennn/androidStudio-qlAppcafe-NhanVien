@@ -1,0 +1,4 @@
+#Sun Mar 15 17:36:37 ICT 2020
+base.0=D\:\\Android_DuAn\\NhanVien\\cafe_app_final-20191214T040242Z-001\\cafe_app_final-20191214T040242Z-001\\cafe_app_final\\Project_Adnroid_DuAn1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
